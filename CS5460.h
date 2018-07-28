@@ -1,7 +1,7 @@
 #ifndef __CS5460_H__
 #define __CS5460_H__
 
-#include <arduino.h>
+#include <Arduino.h>
 #include <stdint.h>
 #include <SPI.h>
 
